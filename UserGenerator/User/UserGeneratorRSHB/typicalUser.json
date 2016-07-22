@@ -1,0 +1,22 @@
+{
+	"Name" : {
+		"last" : "Земляк",
+		"second" : "Валерьевич",
+		"first" : "Эльмир",
+		"fe" : false
+	},
+	"login" : null,
+	"Role" : "Seller",
+	"filialCod" : "1",
+	"UpralvlenieCod" : "1",
+	"KanalProdazhCod" : "4",
+	"PosrednikCod" : "0",
+	"mail" : null,
+	"VremennayaZona" : "0",
+	"TabelniyNomer" : null,
+	"tipDeystviya" : "CREATE",
+	"Companiya" : "ЗАО СК «РСХБ-Страхование» ",
+	"Podrazdelenie" : "Воронеж",
+	"DocerniePodrazdelenieA" : "",
+	"DocerniePodrazdelenieB" : ""
+}
